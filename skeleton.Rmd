@@ -16,6 +16,14 @@ output:
 Get it from GitHub: https://github.com/mangothecat/rmdshower.
 </p>
 
+## How to use this template
+
+First, install the package from Github:
+
+devtools::install_github(“mangothecat/rmdshower”)
+
+Then use this file as a template. (v2)
+
 ## R Markdown
 
 This is an R Markdown presentation. Markdown is a simple formatting syntax
