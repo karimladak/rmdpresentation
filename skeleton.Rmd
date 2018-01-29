@@ -16,7 +16,7 @@ output:
 Get it from GitHub: https://github.com/mangothecat/rmdshower.
 </p>
 
-## How to use this template
+## How to use this template 
 
 First, install the package from Github:
 
